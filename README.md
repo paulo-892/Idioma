@@ -7,4 +7,4 @@ General Pipeline:
  - Featurize the documents using the models in the "Models" directory
  - Update the DB with the featurized documents
 
-Thanks for checking out Idioma! :)
+Thanks for checking out Idioma! :) 
